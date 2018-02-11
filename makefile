@@ -21,4 +21,4 @@ main.o: main.c calc.h
 
 # This will clean or remove compiled files so you can start fresh
 clean:
-	rm -rf *.o *.exe
+	rm -f *.o *.exe getStuff/*.o
